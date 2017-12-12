@@ -1,4 +1,6 @@
+import Main from './public/components/Main'
+
 ReactDOM.render(
-  <div>Hello</div>,
+  <Main/>,
   document.getElementById('root')
 );
